@@ -36,7 +36,7 @@ int main(){
 	SPE p,q;
 	SPE *s1=&p,*s2=&q;
 	env world;
-	s1->a=20;
+	s1->a=17;
 	s1->b=1;
 	s1->c=10;
 	s1->x=10;
